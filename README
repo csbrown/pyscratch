@@ -1,0 +1,3 @@
+This is an interface to manipulate a scratch-like character on a canvas using simple python (like sprite.rotate(angle)) syntax.
+
+To use, edit userscript.py to tell the sprite what to do.  Has two modes (which you currently have to switch between in pyscratch.py, sorry) enabling maze-mode and scratch-mode.
